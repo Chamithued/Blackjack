@@ -1,3 +1,4 @@
+//object
 var player = {
     name :"C.S.E",
     chips : 100
